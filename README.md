@@ -2,7 +2,7 @@
 
 👦🏼 My name is Matheus Henrique
 
-💻 I study Computer Science
+💻 DevOps
 
 🧠 Always learning
 
